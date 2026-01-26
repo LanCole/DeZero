@@ -6,7 +6,8 @@ DeZero是一种极简的深度学习框架，设计细节来自于<a href="https
 
 ## 项目简介
 
-项目种创建了一个深度学习框架——DeZero。DeZero是《深度学习入门2：自制框架》原创的框架，它用最少的代码实现了现代深度学习框架的功能。DeZero是一个小而强大的框架，将通过60个步骤来完成它。
+此项目中创建了一个深度学习框架——DeZero。
+DeZero是《深度学习入门2：自制框架》原创的框架，它用最少的代码实现了现代深度学习框架的功能。
 
 <!-- <p>
 <img src="https://raw.githubusercontent.com/oreilly-japan/deep-learning-from-scratch-3/images/dezero_logo.png" width="400px" </p>
@@ -30,7 +31,6 @@ DeZero是以简单易懂为第一设计原则的极简深度学习框架。
 ### 2. 纯Python
 许多深度学习框架中使用多种编程语言(纯Python和C++)来实现，而DeZero只采用Python来实现。
 因此只要懂Python，就可以很容易地阅读DeZero框架中地源代码。
-由于该框架只使用Python来实现，所以可以轻松地在智能手机上，或者使用Google Colaboratory等服务在云端运行它。
 
 ### 3. 具备现代深度学习框架的功能
 PyTorch和TensorFlow等现代深度学习框架有许多相同的功能，
